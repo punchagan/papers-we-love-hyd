@@ -1,5 +1,4 @@
-papers-we-love-hyd
-==================
+# Papers We Love, Hyderabad
 
 This is a repository for discussions around a Hyderabad chapter of Papers We Love. 
 
